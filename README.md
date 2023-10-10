@@ -1,6 +1,7 @@
 # Sistema_Recomendacao
-Prática com Machine Learning
   ![download](https://www.coopersystem.com.br/wp-content/uploads/2018/12/machine_learning.jpg)
+
+Prática com Machine Learning
 
   Machine Learning, ou aprendizado de máquina, representa um campo revolucionário da inteligência artificial (IA) que capacita sistemas computacionais a aprenderem padrões e tomar decisões sem uma programação explícita. Ao invés de seguir regras de maneira estática, esses sistemas têm a capacidade de se adaptar e melhorar com base em dados. No âmbito da tecnologia contemporânea, o Machine Learning desempenha um papel fundamental, transformando a forma como interagimos com a informação e otimizamos processos.
 
