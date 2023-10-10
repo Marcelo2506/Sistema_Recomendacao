@@ -1,6 +1,6 @@
 # Sistema_Recomendacao
 Prática com Machine Learning
-  ![download]([https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coopersystem.com.br%2Fmachine-learning%2F&psig=AOvVaw1fgpkhW30DYto-ebzuiruk&ust=1696989072421000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCjw4iv6oEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coopersystem.com.br%2Fmachine-learning%2F&psig=AOvVaw1fgpkhW30DYto-ebzuiruk&ust=1696989072421000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCjw4iv6oEDFQAAAAAdAAAAABAE)
+  ![download](https://www.coopersystem.com.br/wp-content/uploads/2018/12/machine_learning.jpg)
 
   Machine Learning, ou aprendizado de máquina, representa um campo revolucionário da inteligência artificial (IA) que capacita sistemas computacionais a aprenderem padrões e tomar decisões sem uma programação explícita. Ao invés de seguir regras de maneira estática, esses sistemas têm a capacidade de se adaptar e melhorar com base em dados. No âmbito da tecnologia contemporânea, o Machine Learning desempenha um papel fundamental, transformando a forma como interagimos com a informação e otimizamos processos.
 
